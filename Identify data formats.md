@@ -8,7 +8,7 @@ We can classify data as *structured, semi-strustured, or unstructured*.
 
 Structured data is data that adheres to a fixed *schema*, so all of the data has the same fields or properties. Most commonly, the schema for the structured data entities is *tabular* - in other words, the data is represented in one or more tables that consist of rows to represent each instance of  data entity, and columns to represent attributes of the entity. For example, the following image shows tabular data repressentations for *Customer*, and *Prroduct* entities.
 
-![](2-tabular-diagram-2.png)
+![](images/2-tabular-diagram-2.png)
 
 Structured data is often stored in a database in which multiple tables can reference one another by using key values in a *relational* model.
 
@@ -70,7 +70,7 @@ One common format for semi-structured data is *Javascript Object Notation* (JSON
 
 Not all data is structured or even semi-structured. For example, documents, images, audio and video data, and binaary files might not have a specific structure. This kind of data is referred to as *unstructured* data.
 
-![](2-unstructured-data.png)
+![](images/2-unstructured-data.png)
 
 ## Data stores
 
